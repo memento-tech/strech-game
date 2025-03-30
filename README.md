@@ -2,6 +2,8 @@
 
 ## How to build, package and run stretch-game
 
+Source code: https://github.com/memento-tech/stretch-game
+
 - clone project from this repository using command ```bash git clone <repository-url> ```
 - open project in prefered IDE
 - run command: mvn clean package
