@@ -1,4 +1,4 @@
-# strech-game
+# Technical assignment - Stretch Game
 
 ## How to build, package and run stretch-game
 
