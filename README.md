@@ -1,5 +1,13 @@
 # strech-game
 
+## How to build, package and run stretch-game
+
+- clone project from this repository using command ```bash git clone <repository-url> ```
+- open project in prefered IDE
+- run command: mvn clean package
+- fully runnable jar will be available in target folder by name: stretch-game.jar
+- run application using command: ```bash java -jar <your-jar-file> --config config.json --betting-amount 100 ```
+
 ## Requirements ##
 
 - JDK >= 1.8
